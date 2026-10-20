@@ -1,0 +1,6 @@
+,ann_return_%,ann_vol_%,sharpe,max_drawdown_%,worst_month_%
+1/N,11.91,11.63,0.91,-17.7,-11.3
+Min variance,9.39,9.01,0.89,-21.7,-7.5
+Max Sharpe,12.45,11.18,0.99,-27.0,-9.9
+Inverse vol,11.68,10.84,0.95,-17.1,-9.8
+SPY (benchmark),14.26,14.37,0.91,-23.9,-12.5
